@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> ʕ◉ᴥ◉ʔ </title>
+<style> 
+    body{
+        Background-color: Black;
+        color: Snow;
+        font: Courier;
+  
+    }
+    ul{
+        list-style-position: inside;
+    }
+    ol{
+        list-style-position: inside;
+    }
+
+</style>
+    </head>
+    <body>
+       <center> <h1> SOLAR ECLIPSE </h1> </center>
+      <hr>
+      <center><h4> On August 21, 2017 there will be an eclipse of the sun!</h4></center>
+      <p>This is where the moon will completely cover the sun and the sun's tenuous atmosphere-the corona-can be seen, will stretch from Lincoln Beach, Oregon to Charleston, South Carolina. Observers outside this path will still see a partial solar eclipse where the moon covers part of the sun's disk!</p>
+    <center><img src="https://eclipse2017.nasa.gov/sites/default/files/eclipestages.png"></center>
+       <center> <h2> What is a Solar Eclipse you might ask?</h2> </center>
+       <center><p> A solar eclipse  in which the moon passes between the sun and Earth and blocks all or part of the sun for up to about three hours, from beginning to end, as viewed from a given location.  For this eclipse, the longest period when the moon completely blocks the sun from any given location along the path will be about two minutes and 40 seconds.  The last time the contiguous U.S. saw a total eclipse was in 1979!!</p></center> 
+    <center><img src="https://www.exploratorium.edu/sites/default/files/SolarEclipse.jpg"></center>
+        <center> <h2> Where can you see this amazing event? </h2></center>
+        <center><ul>
+            <li> The first point of contact will be at Lincoln Beach, Oregon at 9:05 a.m. PDT. Totality begins there at 10:16 a.m. PDT </li>
+            <li> then,it will cross through Oregon</li>
+            <li> then Idaho</li>
+            <li> Wyoming </li>
+            <li> Montana </li>
+            <li> Nebraska </li>
+            <li> Iowa </li>
+            <li> Kansas </li>
+            <li> Missouri </li>
+            <li> Illinois </li>
+            <li> Kentucky </li>
+            <li> Georgia </li>
+            <li> North Carolina </li>
+            <li> Then the total eclipse will end near Charleston, South Carolina at 2:48 p.m. EDT.</li>
+        </ul></center>
+        <center><h1> BUT BE CAREFUL! </h1></center>
+        <center><h2> There are safety concerns you have to look for while trying to spot this solar eclipse! You never want to look directly at the sun without appropriate protection except during totality, you could severely hurt your eyes. But for safety purposes <a href="https://eclipse2017.nasa.gov/safety">Click HERE</a> to learn more.</h2></center>
+    <center> <h1> TYPES OF SOLAR </h1></center>
+    <center><ol>There are 4 different types of solar eclipses. How much of the Sun's disk is eclipsed, the eclipse magnitude, depends on which part of the Moon's shadow falls on Earth.
+<li>Partial solar eclipses occur when the Moon only partly obscures the Sun's disk and casts only its penumbra on Earth.</li>
+<li>Annular solar eclipses take place when the Moon's disk is not big enough to cover the entire disk of the Sun, and the Sun's outer edges remain visible to form a ring of fire in the sky. An annular eclipse of the Sun takes place when the Moon is near apogee, and the Moon's antumbra falls on Earth.</li>
+<li>Total solar eclipses happen when the Moon completely covers the Sun, and it can only take place when the Moon is near perigee, the point of the Moon's orbit closest to Earth. You can only see a total solar eclipse if you're in the path where the Moon's casts its darkest shadow, the umbra.</li>
+<li>Hybrid Solar Eclipses, also known as annular-total eclipses, are the rarest type. They occur when the same eclipse changes from an annular to a total solar eclipse, and/or vice versa, along the eclipse's path.</li>
+</center>
+     </ol>
+        </body>
+</html>
