@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>codehs.com</title>
+    <style>
+        body {
+            background-color: MistyRose;
+            color: Snow;
+    </style>
+    </head>
+  <body>
+    <h1>Welcome to Iris' Homepage</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xetxmSrBxhkL2Wwv0NSDFqMKyBMnolMTrhpbMst1qG6ksoSl" alt="me"
+   
+    <b></b>
+    <p>
+      <h2> Hello! Let me tell you somethings about myself. I amd 5'4, half asian girl. I am currently creating this in a software engineering class. I dont really have a preference in a favorite color but if i had to choos it would be blue. I like to do a couple things like 
+          <ul>
+              <li> Video games </li>
+              <li> Draw </li>
+              <li> Volleyball</li>
+              <li> Watch Anime </li>
+          </ul>
+      </h2>
+      <hr></hr>
+      <p> Things that I would like to learn in AP CS, is learning how to make my websites more creative. I also want to get really good at coding but thats something that I have to do on my own time.Heres some examples that I would like to do; 
+          <a href="https://tumblr.com"> Tumblr</a>
+          I would want to do a site like tumblr, because its really creative and you also get to make your own websites ON the website and many users use it.
+      </p>
+      
+      
+    </p>
+    
+    
+    
+    
+  </body>
+</html>
